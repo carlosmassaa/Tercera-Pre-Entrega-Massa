@@ -1,0 +1,16 @@
+{% extends 'padre.html' %}
+
+
+{% block contenidoQueCambia %} 
+<ul>
+        
+    {% for profesor in lista_profesores %}
+      <li>{{ profesor.nombre }} - {{ profesor.apellido }} - {{profesor.email}} - {{ profesor.profesion }} </li>
+    {% endfor %}
+        
+</ul>
+
+<button> <a href="{% url 'ProfesoresFormulario' %}"> Agregar profesor </a></button>
+
+{% endblock contenidoQueCambia %}
+
