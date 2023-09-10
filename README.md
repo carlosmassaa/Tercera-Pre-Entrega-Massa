@@ -6,7 +6,7 @@
 
 2. **Agregar un profesor, estudiante y curso:** En cada sección podes agregar un nuevo objeto.
 
-3. **Buscar un curso por camada:** Dirígete a la sección de cursos y utiliza el boton "Buscar Curso por camada" cursos según la camada.
+3. **Buscar un curso por camada:** Dirígete a la sección de cursos y utiliza el boton "Buscar Curso por camada" para buscar cursos según la camada.
 
 4. **Realizar otra búsqueda de curso:** Si queres realizar otra búsqueda de curso, podes clickeando en el boton "Buscar otro curso por camada".
 
