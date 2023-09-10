@@ -10,5 +10,5 @@
 
 4. **Realizar otra búsqueda de curso:** Si queres realizar otra búsqueda de curso, podes clickeando en el boton "Buscar otro curso por camada".
 
-5. **Volver a la lista de cursos:** También tenes los opción de clickear en el boton "Volver a la lista de cursos".
+5. **Volver a la lista de cursos:** También tenes la opción de clickear en el boton "Volver a la lista de cursos".
 
